@@ -13,6 +13,7 @@ models/
 
 # Ignore datasets (if needed)
 datasets/
+presentation.pdf/
 
 # Ignore unnecessary system files
 .DS_Store
