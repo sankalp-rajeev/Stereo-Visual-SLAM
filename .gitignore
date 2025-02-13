@@ -1,0 +1,19 @@
+CARLA/
+CARLA-0.10.0-Win64-Shipping/
+
+# Ignore compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+# Ignore models (upload separately if needed)
+models/
+*.pt
+
+# Ignore datasets (if needed)
+datasets/
+
+# Ignore unnecessary system files
+.DS_Store
+Thumbs.db
