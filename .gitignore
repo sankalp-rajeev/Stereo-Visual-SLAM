@@ -10,6 +10,7 @@ __pycache__/
 # Ignore models (upload separately if needed)
 models/
 *.pt
+carla_simulation code/slam.py
 
 # Ignore datasets (if needed)
 datasets/
