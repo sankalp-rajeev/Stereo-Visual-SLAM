@@ -10,11 +10,12 @@ __pycache__/
 # Ignore models (upload separately if needed)
 models/
 *.pt
-carla_simulation code/slam.py
-
-# Ignore datasets (if needed)
-datasets/
-presentation.pdf/
+slam_code/stereo_vslam_pipelinev3.py
+slam_code/visualize_3dmap.py
+slam_code/visualize.py
+slam_code/slam_map_showcase.mp4
+slam_code/carla_data
+slam_code/vslam_final_results
 
 # Ignore unnecessary system files
 .DS_Store
