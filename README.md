@@ -3,10 +3,6 @@
 
 This project implements a full stereo visual SLAM (Simultaneous Localization and Mapping) pipeline in the CARLA autonomous driving simulator. It includes stereo depth estimation, visual odometry using PnP, basic loop closure detection, global point cloud map generation, and pose fusion using a simple 9D Kalman Filter.
 
-##  Demo Video
-
-
-
 ---
 
 ##  Key Features
